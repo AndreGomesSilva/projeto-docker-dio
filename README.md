@@ -1,4 +1,4 @@
-# Projeto Dio Docker Compose
+# Project Dio Docker Compose
 
 The goal of the challenge was to create a docker compose file that runs a simple web app
 
